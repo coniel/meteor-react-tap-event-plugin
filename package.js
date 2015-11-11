@@ -1,6 +1,6 @@
 Package.describe({
     name: 'coniel:react-tap-event-plugin',
-    version: '0.0.1',
+    version: '0.0.2',
     // Brief, one-line summary of the package.
     summary: 'Add the react tap event plugin to your project',
     // URL to the Git repository containing the source code for this package.
