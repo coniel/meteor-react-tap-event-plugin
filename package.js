@@ -17,7 +17,7 @@ Npm.depends({
 
 Package.onUse(function(api){
 
-    api.use(['react@0.14.1_1']);
+    api.use(['react@0.14.3']);
     api.use(['cosmos:browserify@0.8.1']);
 
 
